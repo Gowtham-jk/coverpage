@@ -108,7 +108,7 @@ Write your own steps here.
         <hr style="color: orange;">
     </div>
     <div class="author">
-       <p><b>KEERTHIVASAN</b></p>
+       <p><b>GOWTHAM</b></p>
     </div>
     <div class="pub">
         SEC
@@ -120,7 +120,8 @@ Write your own steps here.
 </body>
 ```
 ## Output:
-![Alt text](<Screenshot from 2023-12-14 20-30-34.png>)
+![GOWTHAM](https://github.com/Gowtham-jk/coverpage/assets/149857834/2b2526b3-5427-4607-909d-23a68a3aacf7)
+
 
 ## Result:
 HE PROGRAM WAS EXECUTED SUCCESSFULLY.
