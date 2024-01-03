@@ -5,8 +5,9 @@ To develop a website to display the cover page design of a book
 ## Design Steps:
 
 ### Step 1:
-Write your own steps here.
+First, fork the repository from github. Link is https://github.com/gowriganeshns/cover-page-design
 ### Step 2:
+Create a django project amd a static folder containing a html folder, which in turn contains the html file that you want to work with. In this case is is bookcover.html.
 
 ## Code:
 ```
@@ -124,4 +125,4 @@ Write your own steps here.
 
 
 ## Result:
-HE PROGRAM WAS EXECUTED SUCCESSFULLY.
+THE PROGRAM WAS EXECUTED SUCCESSFULLY.
